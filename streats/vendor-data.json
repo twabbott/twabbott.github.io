@@ -1,0 +1,129 @@
+[
+    {
+        "id": 314,
+        "name": "Umani",
+        "tags": ["pizza", "gluten free", "vegan", "vegetarian"],
+        "slogan": "Gourmet pizza / wood fire oven",
+        "about": "Umani, the unknown element - the family element. Come taste our world class wood-fired pizza! Try our great specials, like the Criolla or Hawaii 2.0. Can't decide on just one? Get a half and half pizza!  Come. Partake. Umani.",
+        "ratingInfo": {
+            "stars": 4.3,
+            "reviewCount": 234
+        },
+        "phoneNumber": "3852517911",
+        "email": "umanicucina@gmail.com",
+        "website": "https://www.umani.us/",
+        "address": {
+            "street": "3232 400 East",
+            "city": "South Salt Lake",
+            "state": "UT",
+            "zipCode": "84115"
+        },
+        "links": [
+            {
+                "type": "facebook",
+                "url": "https://www.facebook.com/umanicucina"
+            },
+            {
+                "type": "instagram",
+                "url": "https://www.instagram.com/umanipizzeria/"
+            }
+        ], 
+        "photos": [
+            {
+                "url": "https://d3t2sst0273m7m.cloudfront.net/truck_banner_image/by-md5/6/3/63f87510d7fc1235776404c7c42b4313/9316C2A1-48FC-4436-BF71-511F024728F8.jpg",
+                "isProfilePhoto": "true",
+                "aspectRatio": [16, 9]
+            },
+            {
+                "url": "https://images.squarespace-cdn.com/content/v1/59239f1346c3c49b332a0cd8/1604877818018-2893119OGV5TIPRZIKTW/umani.jpg?format=1000w",
+                "isMenu": "true",
+                "aspectRatio": [125, 206]
+            },
+            {
+                "url": "https://images.squarespace-cdn.com/content/v1/59239f1346c3c49b332a0cd8/1511649626612-RWFZCR8Y33KFJ03QDLD7/image-asset.jpeg?format=300w",
+                "aspectRatio": [1, 1]
+            },
+            {
+                "url": "https://images.squarespace-cdn.com/content/v1/59239f1346c3c49b332a0cd8/1510683819731-XZ5X7OQTM52MUENOVC4R/image-asset.jpeg?format=300w",
+                "aspectRatio": [1, 1]
+            },
+            {
+                "url": "https://images.squarespace-cdn.com/content/v1/59239f1346c3c49b332a0cd8/1510815437153-P9QB3E3IFZXKADN16YTU/image-asset.jpeg?format=300w",
+                "aspectRatio": [1, 1]
+            },
+            {
+                "url": "https://images.squarespace-cdn.com/content/v1/59239f1346c3c49b332a0cd8/1509225378363-28Z7F0R8NMII5Q3ATLZT/image-asset.jpeg?format=300w",
+                "aspectRatio": [1, 1]
+            },
+            {
+                "url": "https://images.squarespace-cdn.com/content/v1/59239f1346c3c49b332a0cd8/1513462394199-1QH05QZIW88UJZAYCXH0/image-asset.jpeg?format=300w",
+                "aspectRatio": [1, 1]
+            },
+            {
+                "url": "https://images.squarespace-cdn.com/content/v1/59239f1346c3c49b332a0cd8/1514586319502-BSUYHHDO6I0FRMWD7D46/image-asset.jpeg?format=300w",
+                "aspectRatio": [1, 1]
+            }
+        ]
+    },
+    {
+        "id": 588,
+        "name": "South of the Border Tacos",
+        "tags": ["tacos", "mexican", "burritos", "quesadillas","nachos","tortas"],
+        "slogan": "Mexican Food",
+        "about": "Delicious Mexican food! Try our burritos, tacos, tortas, quesadillas, or especially our supreme nachos! Everything is fresh made from scratch!",
+        "ratingInfo": {
+            "stars": 4.0,
+            "reviewCount": 58
+        },
+        "phoneNumber": "8013109253",
+        "email": "sotbtacos@gmail.com",
+        "website": "https://sotbtacos.com/",
+        "address": {
+            "street": "2473 West 230 South",
+            "city": "Provo",
+            "state": "UT",
+            "zipCode": "84601"
+        },
+        "links": [
+            {
+                "type": "facebook",
+                "url": "https://www.facebook.com/Sotbtacos"
+            },
+            {
+                "type": "instagram",
+                "url": "https://www.instagram.com/sotbtacos/"
+            }
+        ], 
+        "photos": [
+            {
+                "url": "https://d3t2sst0273m7m.cloudfront.net/truck_banner_image/by-md5/c/a/ca967e4ea33edb19a9baf66a31618319/0DE91EEE-754B-4FF7-90F4-0A7B3C14D9BD.jpeg",
+                "isProfilePhoto": "true",
+                "aspectRatio": [1, 1]
+            },
+            {
+                "url": "https://www.sotbtacos.com/uploads/1/3/0/6/130659652/s597684379859712091_p103_i1_w640.jpeg",
+                "aspectRatio": [4, 3]
+            },
+            {
+                "url": "https://www.sotbtacos.com/uploads/1/3/0/6/130659652/s597684379859712091_p93_i1_w565.jpeg",
+                "aspectRatio": [1, 1]
+            },
+            {
+                "url": "https://www.sotbtacos.com/uploads/1/3/0/6/130659652/s597684379859712091_p96_i1_w640.jpeg",
+                "aspectRatio": [4, 3]
+            },
+            {
+                "url": "https://www.sotbtacos.com/uploads/1/3/0/6/130659652/s597684379859712091_p92_i1_w600.jpeg",
+                "aspectRatio": [4, 3]
+            },
+            {
+                "url": "https://www.sotbtacos.com/uploads/1/3/0/6/130659652/s597684379859712091_p67_i1_w640.jpeg",
+                "aspectRatio": [1, 1]
+            },
+            {
+                "url": "https://www.sotbtacos.com/uploads/1/3/0/6/130659652/s597684379859712091_p95_i1_w640.jpeg",
+                "aspectRatio": [4, 3]
+            }
+        ]
+    }
+]
