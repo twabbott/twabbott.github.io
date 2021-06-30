@@ -1,6 +1,7 @@
 {
     "template": "../src/components/trucksMap",
     "sharedHashesByProp": {},
+    "foo": "yeah, baby!",
     "data": {
         "reactStaticData": {
             "trucks": [
